@@ -4,6 +4,7 @@
 
 
 **Código en R :**  [Código final](/mpg - copia.md) 
+
 **Código en R :**  [Código final pendiente](/mpg2.html) 
 
 ## Ejemplo 2 Simulación Distribución Discreta
