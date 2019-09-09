@@ -93,5 +93,5 @@ with(salmonesC,tapply(Weight,Species,summary))
 ggsave("clean.png",dpi=400)
 
 ```
-
+**BACK TO HOME :**  [Código](/Salmon2.md) 
 
