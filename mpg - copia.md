@@ -8,13 +8,13 @@
 
 ## Descripción de los Datos
 
-```{r }
-knitr::opts_chunk$set(echo = TRUE)
-View(mpg) 
-attach(mpg)
-head(mpg)
-str(mpg)
-```
+        ```{r }
+        knitr::opts_chunk$set(echo = TRUE)
+        View(mpg) 
+        attach(mpg)
+        head(mpg)
+        str(mpg)
+        ```
 
 ## Aplicando ggplot2
 
