@@ -1,7 +1,6 @@
 ## Definiciones Generales
 
     ```{r }
-    knitr::opts_chunk$set(echo = TRUE)
     setwd("/cloud/project")
     # dir()
     library(ggplot2)
