@@ -64,3 +64,4 @@ d <- ggplot(data = mpg, aes(x=hwy,y=factor(model)))# GRAFICA DE BASE
 d + geom_point(size=3,col="blue")
 
 ```
+**BACK TO HOME :**  [Pag. Principal](/README.md) 
