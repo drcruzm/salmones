@@ -1,7 +1,7 @@
     ---
-    title: "Nobre de la Practica"
-    author: "Alumno Nombre"
-    date: "6/8/2019"
+    title: "analisis data Salmones"
+    author: "Dr. Víctor Cruz"
+    date: "9/9/2019"
     output: ioslides_presentation
     runtime: shiny
     ---
