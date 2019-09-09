@@ -52,26 +52,26 @@ summary(salmon1)
 
 ## Analisis de Outliners 
 
-```{r, echo = TRUE }
-salmon1[1386,] # numero de registo ?
+    ```{r, echo = TRUE }
+    salmon1[1386,] # numero de registo ?
 
-ext <- Boxplot(Weight,Species)
-salmon1[ext,]
-```
+    ext <- Boxplot(Weight,Species)
+    salmon1[ext,]
+    ```
 
 ## Guardamos los datos antes de cambiarlos
 
-```{r, echo = TRUE }
-dump("salmon1", "/cloud/project/DataSalmon.R")
+    ```{r, echo = TRUE }
+    dump("salmon1", "/cloud/project/DataSalmon.R")
 
-```
+    ```
 
 ## to reload el dataset, se ejecuta
 
-```{r}
-source("/cloud/project/DataSalmon.R")
-View(salmon1)
-```
+    ```{r}
+    source("/cloud/project/DataSalmon.R")
+    View(salmon1)
+    ```
 
 ## Eliminando valores negativos
 
