@@ -1,18 +1,17 @@
----
-title: "Nobre de la Practica"
-author: "Alumno Nombre"
-date: "6/8/2019"
-output: ioslides_presentation
-runtime: shiny
----
+    ---
+    title: "Nobre de la Practica"
+    author: "Alumno Nombre"
+    date: "6/8/2019"
+    output: ioslides_presentation
+    runtime: shiny
+    ---
 
+    ```{r setup, include=True}
+    knitr::opts_chunk$set(echo = T)
+    library(car) # Librerias a utilizar
+    # library() # Librerias a utilizar
 
-```{r setup, include=True}
-knitr::opts_chunk$set(echo = T)
-library(car) # Librerias a utilizar
-# library() # Librerias a utilizar
-
-```
+    ```
 
 ## Lectura de Datos
 
@@ -80,14 +79,12 @@ summary(salmonesC)
 attach(salmonesC)
 ```
 
-
 # Analizando y graficando los valores corregidos
 
 ```{r}
 ggplot(salmonesC,aes(Species,Weight))+geom_boxplot()
 
 with(salmonesC,tapply(Weight,Species,summary))
-
 
 ggsave("clean.png",dpi=400)
 
