@@ -7,11 +7,8 @@
 
 **Código en R :**  [Código final pendiente](/mpg2.html) 
 
-## Ejemplo 2 Simulación Distribución Discreta
-###  (Calculo de la Demanda)
+## Ejemplo 2 salmones
 
-**Código en R :**  [Código](/Demanda1.html) 
-
-
+**Código en R :**  [Código](/Salmon2%20-%20copia.md) 
 
 
