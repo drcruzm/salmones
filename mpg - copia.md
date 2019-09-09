@@ -1,13 +1,11 @@
+## Definiciones Generales
 
-
-## Descripción de los Datos
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-setwd("/cloud/project")
-# dir()
-library(ggplot2)
-```
+    ```{r }
+    knitr::opts_chunk$set(echo = TRUE)
+    setwd("/cloud/project")
+    # dir()
+    library(ggplot2)
+    ```
 
 ## Descripción de los Datos
 
