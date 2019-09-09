@@ -1,8 +1,6 @@
----
-title: "R Notebook"
-output: html_notebook
----
 
+
+## Descripción de los Datos
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -69,14 +67,3 @@ d <- ggplot(data = mpg, aes(x=hwy,y=factor(model)))# GRAFICA DE BASE
 d + geom_point(size=3,col="blue")
 
 ```
-
-
-
-
-
-
-
-
-
-
-
