@@ -52,7 +52,7 @@ summary(salmon1)
 
 ## Analisis de Outliners 
 
-    ```{r, echo = TRUE }
+    ```{r}
     salmon1[1386,] # numero de registo ?
 
     ext <- Boxplot(Weight,Species)
@@ -61,7 +61,7 @@ summary(salmon1)
 
 ## Guardamos los datos antes de cambiarlos
 
-    ```{r, echo = TRUE }
+    ```{r}
     dump("salmon1", "/cloud/project/DataSalmon.R")
 
     ```
