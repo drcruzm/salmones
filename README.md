@@ -3,7 +3,7 @@
 ## Ejemplo1 mpg
 
 
-**Código en R :**  [Código final](/mpg - copia.md) 
+**Código en R :**  [Código clase](/mpg - copia.md) 
 
 **Código en R :**  [Código final pendiente](/mpg2.html) 
 
