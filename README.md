@@ -9,6 +9,6 @@
 
 ## Ejemplo 2 salmones
 
-**Código en R :**  [Código](/Salmon2%20-%20copia.md) 
+**Código en R :**  [Código](/Salmon2.md) 
 
 
