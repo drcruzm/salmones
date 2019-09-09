@@ -2,7 +2,9 @@
 
 ## Ejemplo1 mpg
 
-**Código en R :**  [Código final](/mpg.html) 
+
+**Código en R :**  [Código final](/mpg - copia.md) 
+**Código en R :**  [Código final pendiente](/mpg2.html) 
 
 ## Ejemplo 2 Simulación Distribución Discreta
 ###  (Calculo de la Demanda)
