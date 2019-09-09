@@ -6,6 +6,8 @@
     runtime: shiny
     ---
 
+## Instalando librerias
+
     ```{r setup, include=True}
     knitr::opts_chunk$set(echo = T)
     library(car) # Librerias a utilizar
@@ -44,9 +46,9 @@ summary(salmon1)
 
 ## Graficando categorias y valores extremos
 
-```{r, echo = TRUE }
-Boxplot(Weight,Species) #Reporta registros fuera de rango
-```
+    ```{r, echo = TRUE }
+    Boxplot(Weight,Species) #Reporta registros fuera de rango
+    ```
 
 ## Analisis de Outliners 
 
@@ -58,12 +60,14 @@ salmon1[ext,]
 ```
 
 ## Guardamos los datos antes de cambiarlos
+
 ```{r, echo = TRUE }
 dump("salmon1", "/cloud/project/DataSalmon.R")
 
 ```
 
 ## to reload el dataset, se ejecuta
+
 ```{r}
 source("/cloud/project/DataSalmon.R")
 View(salmon1)
