@@ -5,7 +5,7 @@
 
 **Código en R :**  [Código clase](/mpg - copia.md) 
 
-**Código en R :**  [Código final pendiente](/mpg2.html) 
+**Código en R :**  [Código final pendiente](/mpg.html) 
 
 # Ejemplo 2  
 
